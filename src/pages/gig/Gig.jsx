@@ -139,7 +139,7 @@ const Gig = ()=>{
               </div>
               <p>
                 I just want to say that art_with_ai was the first, and after
-                this, the only artist Ill be using on Fiverr. Communication was
+                this, the only artist Ill be using on SkillHatch. Communication was
                 amazing, each and every day he sent me images that I was free to
                 request changes to. They listened, understood, and delivered
                 above and beyond my expectations. I absolutely recommend this
