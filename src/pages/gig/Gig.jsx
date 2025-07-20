@@ -5,6 +5,7 @@ import {useQuery} from "@tanstack/react-query";
 import newRequest from "../../utils/newRequest.js";
 import {useParams} from "react-router";
 import {Link} from "react-router-dom";
+import Reviews from "../../components/reviews/Reviews.jsx";
 
 const Gig = ()=>{
 
