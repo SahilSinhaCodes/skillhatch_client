@@ -60,7 +60,7 @@ const CheckoutForm = () => {
       elements,
       confirmParams: {
         // Make sure to change this to your payment completion page
-        return_url: `${import.meta.env.VITE_RETURN_URL}/success`,
+        return_url: "https://skillhatch-client-new.vercel.app/success",
       },
     });
 
